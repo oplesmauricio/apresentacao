@@ -1,0 +1,13 @@
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.csprojAssemblyReference.cache
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\obj\Debug\netstandard2.0\Views\ContactDetailPage.xaml.g.cs
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\obj\Debug\netstandard2.0\Views\ContactsPage.xaml.g.cs
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.AssemblyInfoInputs.cache
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.AssemblyInfo.cs
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\bin\Debug\netstandard2.0\Apresentacao.deps.json
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\bin\Debug\netstandard2.0\Apresentacao.dll
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\bin\Debug\netstandard2.0\Apresentacao.pdb
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.dll
+C:\Users\mauricioaraujo\source\repos\Apresentacao\Apresentacao\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.pdb
